@@ -1,5 +1,7 @@
 # my todo file 
 todo.txt
+.venv/
+config.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
